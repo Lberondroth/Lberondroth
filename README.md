@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🎓 Medieninformatik @ Hochschule Rhein-Waal
 
-<!--
-**Lberondroth/Lberondroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich entwickle am liebsten Software, in der mehrere autonome KI-Agenten zusammenarbeiten.
 
-Here are some ideas to get you started:
+**Schwerpunkte:** Python · KI-Agenten & LLMs · Computer Vision · Fullstack-Webentwicklung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projekte
+
+- **Multiagentensystem** *(seit 2025, privat)*: Spezialisierte Agenten mit getrennten Rollen, Tool-Integration externer Dienste über MCP und REST-APIs, automatisierte Codequalität mit Ruff, pytest und SonarQube.
+- **[HSRW Campus App](https://github.com/Lberondroth/8826-IT-Projektmanagement--SS2025)**: Fullstack-Campus-Plattform (React 19, TypeScript, Tailwind CSS & Flask); Mensaplan per Live-Scraping, KI-Chatbot „Hatty“ auf Basis der Gemini API und 360°-Campus-Navigator.
+- **Optisches Trackingsystem** *(2021, privat)*: Echtzeit-Objekterkennung mit OpenCV und YOLO, hardwarenahe Ansteuerung zweier Achsen über einen Mikrocontroller.
+
+---
+
+### 📍 Aktuell
+
+Ich suche ein **Praxissemester (Pflichtpraktikum) ab März 2027** in den Bereichen Softwareentwicklung und Künstliche Intelligenz (KI).
+
+---
+
+### 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-berndroth-68407443b/)
