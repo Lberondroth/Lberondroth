@@ -14,9 +14,6 @@ Ich entwickle am liebsten Software, in der mehrere autonome KI-Agenten zusammena
 
 ---
 
-### 📍 Aktuell
-
-Ich suche ein **Praxissemester (Pflichtpraktikum) ab März 2027** in den Bereichen Softwareentwicklung und Künstliche Intelligenz (KI).
 
 ---
 
