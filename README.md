@@ -1,4 +1,4 @@
-## 🎓 Medieninformatik @ Hochschule Rhein-Waal
+## Medieninformatik @ Hochschule Rhein-Waal
 
 Ich entwickle am liebsten Software, in der mehrere autonome KI-Agenten zusammenarbeiten.
 
@@ -6,7 +6,7 @@ Ich entwickle am liebsten Software, in der mehrere autonome KI-Agenten zusammena
 
 ---
 
-### 🚀 Projekte
+### Projekte
 
 - **Multiagentensystem** *(seit 2025, privat)*: Spezialisierte Agenten mit getrennten Rollen, Tool-Integration externer Dienste über MCP und REST-APIs, automatisierte Codequalität mit Ruff, pytest und SonarQube.
 - **[HSRW Campus App](https://github.com/Lberondroth/8826-IT-Projektmanagement--SS2025)**: Fullstack-Campus-Plattform (React 19, TypeScript, Tailwind CSS & Flask); Mensaplan per Live-Scraping, KI-Chatbot „Hatty“ auf Basis der Gemini API und 360°-Campus-Navigator.
